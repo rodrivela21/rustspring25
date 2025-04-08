@@ -16,7 +16,6 @@ fn update_majors(mut collection: Vec<Student>, behavior: fn(&mut Student, String
     collection
 }
 
-// Helper function to print student majors
 fn print_majors(students: &Vec<Student>) {
     println!("Student Majors:");
     for (i, student) in students.iter().enumerate() {
