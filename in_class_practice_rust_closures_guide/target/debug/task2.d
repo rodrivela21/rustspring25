@@ -1,0 +1,1 @@
+/workspaces/rustspring25/in_class_practice_rust_closures_guide/target/debug/task2: /workspaces/rustspring25/in_class_practice_rust_closures_guide/src/bin/task2.rs
